@@ -14,10 +14,10 @@
         <label for="exampleInputEmail1">Tel. Number</label>
         <input class="form-control" id="exampleInputEmail1" type="text" aria-describedby="emailHelp" placeholder="Please enter phone with enough balance" name="phone_number">
       </div>
-      <!-- <div class="form-group">
+      <div class="form-group">
         <label for="exampleInputPassword1">Pin</label>
         <input class="form-control" id="exampleInputPassword1" type="password" placeholder="Pin..." name="pin_number">
-      </div> -->
+      </div>
     </div>
   </div>
   <div class="modal-footer">
